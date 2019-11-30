@@ -1,7 +1,0 @@
-C:\Users\yaffa\source\repos\B19 Ex05 Mai 316265974 Shannie 205487846\GameLogic\bin\Debug\GameLogic.dll.config
-C:\Users\yaffa\source\repos\B19 Ex05 Mai 316265974 Shannie 205487846\GameLogic\bin\Debug\GameLogic.dll
-C:\Users\yaffa\source\repos\B19 Ex05 Mai 316265974 Shannie 205487846\GameLogic\bin\Debug\GameLogic.pdb
-C:\Users\yaffa\source\repos\B19 Ex05 Mai 316265974 Shannie 205487846\GameLogic\obj\Debug\GameLogic.csprojAssemblyReference.cache
-C:\Users\yaffa\source\repos\B19 Ex05 Mai 316265974 Shannie 205487846\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
-C:\Users\yaffa\source\repos\B19 Ex05 Mai 316265974 Shannie 205487846\GameLogic\obj\Debug\GameLogic.dll
-C:\Users\yaffa\source\repos\B19 Ex05 Mai 316265974 Shannie 205487846\GameLogic\obj\Debug\GameLogic.pdb
